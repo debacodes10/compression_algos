@@ -19,16 +19,18 @@ This project demonstrates and compares two powerful data compression techniques:
 ---
 
 ## 📁 Directory Structure
-project-root/ 
-├── include/ │ 
-    ├── huffman.hpp # Huffman header 
-    └── arithmetic.hpp # Arithmetic header 
-├── src/ 
-    ├── main.cpp # Entry point with menu │ 
-    ├── huffman.cpp # Huffman logic │ 
-    └── arithmetic.cpp # Arithmetic logic 
-├── build/ # Output binary 
-└── README.md # This file
+```text
+project-root/
+├── include/
+│   ├── huffman.hpp         # Huffman header
+│   └── arithmetic.hpp      # Arithmetic header
+├── src/
+│   ├── main.cpp            # Entry point with menu
+│   ├── huffman.cpp         # Huffman logic
+│   └── arithmetic.cpp      # Arithmetic logic
+├── build/                  # Output binary
+└── README.md               # This file
+```
 
 ---
 
